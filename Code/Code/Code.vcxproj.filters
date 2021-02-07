@@ -27,5 +27,8 @@
     <ClCompile Include="1(4375).cpp">
       <Filter>소스 파일\basic\math</Filter>
     </ClCompile>
+    <ClCompile Include="약수%281037%29.cpp">
+      <Filter>소스 파일\basic\math</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
