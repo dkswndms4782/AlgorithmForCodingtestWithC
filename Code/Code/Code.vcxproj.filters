@@ -30,5 +30,8 @@
     <ClCompile Include="약수%281037%29.cpp">
       <Filter>소스 파일\basic\math</Filter>
     </ClCompile>
+    <ClCompile Include="약수의 합 2(17427).cpp">
+      <Filter>소스 파일\basic\math</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
